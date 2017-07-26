@@ -1,0 +1,23 @@
+{
+  "name": "gulp-project",
+  "version": "1.0.0",
+  "description": "gelp description",
+  "main": "index.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kmiton/gulp.git"
+  },
+  "keywords": [
+    "c"
+  ],
+  "author": "Oleg",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-watch": "^4.3.11"
+  }
+}
